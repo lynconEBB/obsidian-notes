@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning.md",
+                "file": "2026-03-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planning"
+              "title": "2026-03-10"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "right": {
     "id": "7ed74e9b113e9d7b",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning.md",
+                "file": "2026-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Planning"
+              "title": "Backlinks for 2026-03-09"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning.md",
+                "file": "2026-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Planning"
+              "title": "Outgoing links from 2026-03-09"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planning.md",
+                "file": "2026-03-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Planning"
+              "title": "Outline of 2026-03-09"
             }
           }
         ]
@@ -184,10 +184,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "419eb382269ccb6d",
+  "active": "e928b9105f89dcaa",
   "lastOpenFiles": [
-    "Untitled",
+    "Planejamento.md",
+    "2026-03-10.md",
+    "2026-03-09.md",
+    "Untitled.md",
     "Welcome.md",
-    "Planning.md"
+    "Untitled"
   ]
 }
